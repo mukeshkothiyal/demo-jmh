@@ -18,7 +18,7 @@ Benchmarking is invoked via:
 
 $ java -jar benchmarks.jar
 WARNING: An illegal reflective access operation has occurred
-WARNING: Illegal reflective access by org.openjdk.jmh.util.Utils (file:/Users/mukesh.kumar/FKP/codebase/jmh/demo-jmh/target/benchmarks.jar) to method java.io.Console.encoding()
+WARNING: Illegal reflective access by org.openjdk.jmh.util.Utils (file:/Users/../jmh/demo-jmh/target/benchmarks.jar) to method java.io.Console.encoding()
 WARNING: Please consider reporting this to the maintainers of org.openjdk.jmh.util.Utils
 WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
 WARNING: All illegal access operations will be denied in a future release
